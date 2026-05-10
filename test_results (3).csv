@@ -1,0 +1,6 @@
+model,top1,top3,macroF1,kappa,kappa_q_int
+Baseline,0.686,,,,
+LR flat,0.771,0.857,0.591,0.761,0.899
+LightGBM flat,0.857,0.857,0.751,0.85,0.834
+k-NN,0.771,0.886,0.625,0.761,0.941
+Soft-vote ensemble,0.857,0.886,0.751,0.85,0.834
