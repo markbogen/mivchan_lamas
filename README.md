@@ -13,5 +13,5 @@ test_results.csv - the summary of the test dataset analysis results.
 
 cv_results.csv - the summary of the cv analysis.
 
-classification_report_leading_char.csv group (8 rows + macro/weighted/accuracy lines).
+classification_report_leading_char.csv - group (8 rows + macro/weighted/accuracy lines).
 
